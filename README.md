@@ -25,8 +25,3 @@ Seorang **Frontend Developer** dari Indonesia yang berfokus pada pembangunan eko
 - 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
 - 🌐 Portfolio: [link-portfolio-kamu.com](https://link-portfolio-kamu.com)
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
