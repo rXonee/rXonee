@@ -11,7 +11,7 @@
 ---
 
 ### 📮 How to Reach Me
-- 📧 Email: [rizkyaditya@example.com](mailto:rizkyaditya@example.com)
+- 📧 Email: [rizkyaditya@example.com](mailto:rizkyaditya162009@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
 - 🌐 Portfolio: [link-portfolio-kamu.com](https://link-portfolio-kamu.com)
 
