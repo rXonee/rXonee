@@ -1,6 +1,7 @@
 # Hi ⚡, I'm Rizky Aditya
 
-### "I chose frontend because I want my work to be the first thing that greets people and makes them smile."
+### "I chose frontend because
+I want my work to be the first thing that greets people and makes them smile."
 *Saya memilih frontend karena saya ingin karya saya menjadi hal pertama yang menyapa orang dan membuat mereka tersenyum.*
 
 ---
